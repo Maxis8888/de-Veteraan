@@ -6,4 +6,5 @@ Contributors:
 * Vincent Stakenburg
 * Mark Joling
 * Bjorn Jansen
+* Thomas Christerus
 * Koen Smid
