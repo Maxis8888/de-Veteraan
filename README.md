@@ -8,3 +8,4 @@ Contributors:
 * Bjorn Jansen
 * Thomas Christerus
 * Koen Smid
+* Max Grootjans
